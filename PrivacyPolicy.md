@@ -23,6 +23,7 @@ We do not sell, trade, or otherwise transfer to outside parties any personal inf
 We may update this Privacy Policy from time to time to reflect changes in our practices or to comply with legal requirements. We will notify users of any material changes to this Privacy Policy by posting the updated Privacy Policy on our website. Your continued use of our game after any changes to this Privacy Policy constitutes your acceptance of the updated Privacy Policy.
 
 <h3>Contact Information</h3>
-If you have any questions or concerns about this Privacy Policy, please contact us at [insert email address].
-<br>
-**Effective Date: [10/Feb/2023].**
+If you have any questions or concerns about this Privacy Policy, please contact us at [adityabhoyar.work@gmail.com].
+
+
+Effective Date: [10/Feb/2023].

@@ -25,7 +25,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 If you have any questions or concerns about this Privacy Policy, please contact us at [adityabhoyar.work@gmail.com]. We are committed to ensuring the privacy and security of your data and are happy to answer any questions you may have..
 
 
-<h3>Effective Date: [22/Feb/2023].<h3>
+<h3>Effective Date: [22/Feb/2023].</h3>
   
   
   

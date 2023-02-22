@@ -1,6 +1,6 @@
 <h3>Privacy Policy for Neo's Adventure</h3>
 Neo's Adventure ("we," "us," or "our") is committed to protecting the privacy of our users ("you" or "your"). This Privacy Policy ("Policy") outlines how we collect, use, store, and disclose information that we receive from users of our game, Neo's Adventure. By accessing or using our game, you consent to the practices described in this Policy.
-
+<br>
 **Our game does not require data collection, but our advertising SDK does. The data collected is solely for advertising purposes.**
 
 <h3>Information Collection and Use</h3>

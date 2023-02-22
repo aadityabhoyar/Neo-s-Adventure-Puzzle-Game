@@ -1,7 +1,7 @@
 <h3>Privacy Policy for Neo's Adventure</h3>
 Neo's Adventure ("we," "us," or "our") is committed to protecting the privacy of our users ("you" or "your"). This Privacy Policy ("Policy") outlines how we collect, use, store, and disclose information that we receive from users of our game, Neo's Adventure. By accessing or using our game, you consent to the practices described in this Policy.
-<br>
-**Our game does not require data collection, but our advertising SDK does. The data collected is solely for advertising purposes.**
+
+<h5>**Our game does not require data collection, but our advertising SDK does. The data collected is solely for advertising purposes.**<h5>
 
 <h3>Information Collection and Use</h3>
 The data we collect may include unique advertising identifiers (such as Google Advertising ID and IDFA), unique device identifiers, and anonymized IP addresses. Additionally, we may store data in our own databases, which is used for social features such as leaderboards, tournaments, user ratings, user comments, or to store game progress in the cloud. Some of the data we store in our databases, such as the Gamer ID (Android), is not passed on to our partners.
